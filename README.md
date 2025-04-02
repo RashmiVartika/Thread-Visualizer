@@ -11,8 +11,8 @@ Deadlock mechanism.
 
 ## Technologies Used
 - React.js
-- Node.js, Express.js
-- MongoDB
+- Node.js
+- Typescript
 
 ## Screenshots with interactive light and dark mode are:
 ![Screenshot (19)](https://github.com/user-attachments/assets/bc6ba294-cc24-4ceb-8cff-064f1389f445)
